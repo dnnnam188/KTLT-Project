@@ -1,0 +1,31 @@
+rank,student_id,name,class,gpa,classification
+1,SV_1_0013,Duong Tuan Truong,LOP1_02,9.79,Xuat Sac
+2,SV_1_0002,Vu Thuy Cuong,LOP1_01,7.92,Kha
+3,SV_1_0009,Hoang Huu Phuong,LOP1_01,7.87,Kha
+4,SV_1_0030,Pham Thuy An,LOP1_03,7.78,Kha
+5,SV_1_0025,Le Quang Hieu,LOP1_03,7.69,Kha
+6,SV_1_0020,Vu Thi Mai,LOP1_02,7.59,Kha
+7,SV_1_0019,Dang Anh Vinh,LOP1_02,7.42,Kha
+8,SV_1_0022,Vo Tuan Cuong,LOP1_03,7.40,Kha
+9,SV_1_0016,Phan Ngoc Dung,LOP1_02,7.38,Kha
+10,SV_1_0008,Dang Ngoc Hieu,LOP1_01,7.34,Kha
+11,SV_1_0017,Nguyen Ngoc Mai,LOP1_02,7.30,Kha
+12,SV_1_0006,Tran Van Linh,LOP1_01,7.25,Kha
+13,SV_1_0021,Do Quoc Khoa,LOP1_03,7.25,Kha
+14,SV_1_0018,Duong Manh Phuong,LOP1_02,7.24,Kha
+15,SV_1_0027,Nguyen Anh Mai,LOP1_03,7.02,Kha
+16,SV_1_0012,Phan Thanh Son,LOP1_02,6.76,Trung Binh
+17,SV_1_0024,Dang Tuan Vinh,LOP1_03,6.66,Trung Binh
+18,SV_1_0004,Hoang Thi Dung,LOP1_01,6.54,Trung Binh
+19,SV_1_0001,Bui Tuan Phuc,LOP1_01,6.34,Trung Binh
+20,SV_1_0014,Ly Quoc Mai,LOP1_02,6.20,Trung Binh
+21,SV_1_0028,Vo Anh Cuong,LOP1_03,5.97,Trung Binh
+22,SV_1_0023,Phan Anh Kien,LOP1_03,5.87,Trung Binh
+23,SV_1_0007,Ly Hai Lan,LOP1_01,5.85,Trung Binh
+24,SV_1_0026,Dang Thuy Nghia,LOP1_03,5.77,Trung Binh
+25,SV_1_0011,Hoang Van Dung,LOP1_02,5.72,Trung Binh
+26,SV_1_0005,Pham Manh Son,LOP1_01,5.63,Trung Binh
+27,SV_1_0029,Hoang Thuy Dat,LOP1_03,5.41,Trung Binh
+28,SV_1_0003,Pham Xuan An,LOP1_01,5.30,Trung Binh
+29,SV_1_0010,Hoang Quoc Thang,LOP1_01,5.23,Trung Binh
+30,SV_1_0015,Dang Gia Dung,LOP1_02,3.50,Yeu

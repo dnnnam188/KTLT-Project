@@ -1,0 +1,7 @@
+# Bỏ qua các file thực thi
+*.exe
+
+# Bỏ qua các file rác sinh ra từ Code Runner
+tempCodeRunnerFile.*
+
+.bin/

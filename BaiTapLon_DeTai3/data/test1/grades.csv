@@ -1,0 +1,481 @@
+student_id,name,subject,score,credit,semester
+SV_1_0001,Bui Tuan Phuc,Mac - Lenin,8.6,2,HK1_2020
+SV_1_0001,Bui Tuan Phuc,Lap Trinh C++,7.3,4,HK1_2020
+SV_1_0001,Bui Tuan Phuc,Triet Hoc,5.5,2,HK1_2020
+SV_1_0001,Bui Tuan Phuc,Tieng Anh 2,6.7,2,HK1_2020
+SV_1_0001,Bui Tuan Phuc,Phat Trien Web,7.4,3,HK2_2020
+SV_1_0001,Bui Tuan Phuc,Tu Tuong HCM,6.9,2,HK2_2020
+SV_1_0001,Bui Tuan Phuc,Mang May Tinh,6.1,3,HK2_2020
+SV_1_0001,Bui Tuan Phuc,Kinh Te Vi Mo,4.1,2,HK2_2020
+SV_1_0001,Bui Tuan Phuc,Lap Trinh C++,5.0,4,HK2_2020
+SV_1_0001,Bui Tuan Phuc,Mang May Tinh,5.2,3,HK3_2021
+SV_1_0001,Bui Tuan Phuc,Lap Trinh C++,5.2,4,HK3_2021
+SV_1_0001,Bui Tuan Phuc,Tien Te Ngan Hang,6.4,2,HK3_2021
+SV_1_0001,Bui Tuan Phuc,Tien Te Ngan Hang,5.9,2,HK4_2021
+SV_1_0001,Bui Tuan Phuc,Cong Nghe PM,8.0,3,HK4_2021
+SV_1_0001,Bui Tuan Phuc,Tieng Anh 1,6.8,2,HK4_2021
+SV_1_0001,Bui Tuan Phuc,Vat Ly,7.1,2,HK4_2021
+SV_1_0002,Vu Thuy Cuong,Tieng Anh 2,7.3,2,HK1_2020
+SV_1_0002,Vu Thuy Cuong,Tu Tuong HCM,9.1,2,HK1_2020
+SV_1_0002,Vu Thuy Cuong,Mac - Lenin,7.5,2,HK1_2020
+SV_1_0002,Vu Thuy Cuong,Vat Ly,7.5,2,HK1_2020
+SV_1_0002,Vu Thuy Cuong,Tien Te Ngan Hang,8.2,2,HK2_2020
+SV_1_0002,Vu Thuy Cuong,Tieng Anh 1,7.8,2,HK2_2020
+SV_1_0002,Vu Thuy Cuong,Tieng Anh 2,8.5,2,HK2_2020
+SV_1_0002,Vu Thuy Cuong,Toan Roi Rac,7.1,3,HK2_2020
+SV_1_0002,Vu Thuy Cuong,He Dieu Hanh,7.4,3,HK3_2021
+SV_1_0002,Vu Thuy Cuong,Lap Trinh C++,8.0,4,HK3_2021
+SV_1_0002,Vu Thuy Cuong,Kinh Te Vi Mo,7.1,2,HK3_2021
+SV_1_0002,Vu Thuy Cuong,Kien Truc May Tinh,8.3,3,HK3_2021
+SV_1_0002,Vu Thuy Cuong,Tien Te Ngan Hang,8.9,2,HK4_2021
+SV_1_0002,Vu Thuy Cuong,Cong Nghe PM,8.7,3,HK4_2021
+SV_1_0002,Vu Thuy Cuong,Phat Trien Web,7.6,3,HK4_2021
+SV_1_0003,Pham Xuan An,He Dieu Hanh,7.9,3,HK1_2020
+SV_1_0003,Pham Xuan An,Toan Cao Cap,3.1,3,HK1_2020
+SV_1_0003,Pham Xuan An,Mang May Tinh,5.2,3,HK1_2020
+SV_1_0003,Pham Xuan An,Cong Nghe PM,6.3,3,HK2_2020
+SV_1_0003,Pham Xuan An,Tieng Anh 1,3.6,2,HK2_2020
+SV_1_0003,Pham Xuan An,Toan Cao Cap,5.9,3,HK2_2020
+SV_1_0003,Pham Xuan An,CTDL & GT,5.1,4,HK2_2020
+SV_1_0003,Pham Xuan An,Tieng Anh 2,4.8,2,HK3_2021
+SV_1_0003,Pham Xuan An,Hoa Hoc,4.7,3,HK3_2021
+SV_1_0003,Pham Xuan An,CTDL & GT,4.4,4,HK3_2021
+SV_1_0003,Pham Xuan An,Cong Nghe PM,7.6,3,HK3_2021
+SV_1_0003,Pham Xuan An,Toan Cao Cap,4.3,3,HK3_2021
+SV_1_0003,Pham Xuan An,Tieng Anh 1,4.6,2,HK4_2021
+SV_1_0003,Pham Xuan An,Vat Ly,5.5,2,HK4_2021
+SV_1_0003,Pham Xuan An,Lap Trinh C++,4.9,4,HK4_2021
+SV_1_0003,Pham Xuan An,Tieng Anh 2,7.2,2,HK4_2021
+SV_1_0004,Hoang Thi Dung,Cong Nghe PM,5.6,3,HK1_2020
+SV_1_0004,Hoang Thi Dung,Tieng Anh 1,5.6,2,HK1_2020
+SV_1_0004,Hoang Thi Dung,Mang May Tinh,6.6,3,HK1_2020
+SV_1_0004,Hoang Thi Dung,Tieng Anh 2,6.9,2,HK1_2020
+SV_1_0004,Hoang Thi Dung,Hoa Hoc,5.6,3,HK1_2020
+SV_1_0004,Hoang Thi Dung,Tu Tuong HCM,9.1,2,HK2_2020
+SV_1_0004,Hoang Thi Dung,Co So Du Lieu,8.1,3,HK2_2020
+SV_1_0004,Hoang Thi Dung,Toan Roi Rac,6.4,3,HK2_2020
+SV_1_0004,Hoang Thi Dung,Lap Trinh C++,7.2,4,HK3_2021
+SV_1_0004,Hoang Thi Dung,Tien Te Ngan Hang,5.9,2,HK3_2021
+SV_1_0004,Hoang Thi Dung,Phat Trien Web,6.1,3,HK3_2021
+SV_1_0004,Hoang Thi Dung,Cong Nghe PM,7.3,3,HK3_2021
+SV_1_0004,Hoang Thi Dung,Vat Ly,5.9,2,HK4_2021
+SV_1_0004,Hoang Thi Dung,Phat Trien Web,6.1,3,HK4_2021
+SV_1_0004,Hoang Thi Dung,Mang May Tinh,7.7,3,HK4_2021
+SV_1_0004,Hoang Thi Dung,CTDL & GT,5.0,4,HK4_2021
+SV_1_0005,Pham Manh Son,Kien Truc May Tinh,5.8,3,HK1_2020
+SV_1_0005,Pham Manh Son,Tieng Anh 2,5.0,2,HK1_2020
+SV_1_0005,Pham Manh Son,Vat Ly,5.3,2,HK1_2020
+SV_1_0005,Pham Manh Son,Toan Cao Cap,5.4,3,HK1_2020
+SV_1_0005,Pham Manh Son,Co So Du Lieu,6.8,3,HK1_2020
+SV_1_0005,Pham Manh Son,Kinh Te Vi Mo,5.3,2,HK2_2020
+SV_1_0005,Pham Manh Son,Hoa Hoc,5.6,3,HK2_2020
+SV_1_0005,Pham Manh Son,Tu Tuong HCM,6.5,2,HK2_2020
+SV_1_0005,Pham Manh Son,Vat Ly,6.0,2,HK2_2020
+SV_1_0005,Pham Manh Son,Kien Truc May Tinh,5.5,3,HK2_2020
+SV_1_0005,Pham Manh Son,Kien Truc May Tinh,5.8,3,HK3_2021
+SV_1_0005,Pham Manh Son,Tu Tuong HCM,3.5,2,HK3_2021
+SV_1_0005,Pham Manh Son,Tieng Anh 1,5.5,2,HK3_2021
+SV_1_0005,Pham Manh Son,Cong Nghe PM,5.7,3,HK4_2021
+SV_1_0005,Pham Manh Son,Toan Cao Cap,5.3,3,HK4_2021
+SV_1_0005,Pham Manh Son,Triet Hoc,6.4,2,HK4_2021
+SV_1_0005,Pham Manh Son,Tien Te Ngan Hang,5.8,2,HK4_2021
+SV_1_0005,Pham Manh Son,Vat Ly,5.8,2,HK4_2021
+SV_1_0006,Tran Van Linh,Tu Tuong HCM,7.3,2,HK1_2020
+SV_1_0006,Tran Van Linh,Co So Du Lieu,7.4,3,HK1_2020
+SV_1_0006,Tran Van Linh,Toan Roi Rac,7.1,3,HK1_2020
+SV_1_0006,Tran Van Linh,Mac - Lenin,7.7,2,HK2_2020
+SV_1_0006,Tran Van Linh,Nhap Mon CNTT,8.2,3,HK2_2020
+SV_1_0006,Tran Van Linh,Lap Trinh C++,7.1,4,HK2_2020
+SV_1_0006,Tran Van Linh,Toan Roi Rac,5.8,3,HK2_2020
+SV_1_0006,Tran Van Linh,Kinh Te Vi Mo,8.1,2,HK2_2020
+SV_1_0006,Tran Van Linh,CTDL & GT,6.5,4,HK3_2021
+SV_1_0006,Tran Van Linh,Tu Tuong HCM,5.6,2,HK3_2021
+SV_1_0006,Tran Van Linh,Toan Cao Cap,8.5,3,HK3_2021
+SV_1_0006,Tran Van Linh,Kinh Te Vi Mo,7.5,2,HK3_2021
+SV_1_0006,Tran Van Linh,Nhap Mon CNTT,9.6,3,HK3_2021
+SV_1_0006,Tran Van Linh,Mang May Tinh,5.7,3,HK4_2021
+SV_1_0006,Tran Van Linh,Tien Te Ngan Hang,7.6,2,HK4_2021
+SV_1_0006,Tran Van Linh,Vat Ly,8.5,2,HK4_2021
+SV_1_0006,Tran Van Linh,Mac - Lenin,5.2,2,HK4_2021
+SV_1_0007,Ly Hai Lan,Toan Cao Cap,6.5,3,HK1_2020
+SV_1_0007,Ly Hai Lan,Lap Trinh C++,5.7,4,HK1_2020
+SV_1_0007,Ly Hai Lan,Mac - Lenin,7.4,2,HK1_2020
+SV_1_0007,Ly Hai Lan,Tieng Anh 1,4.4,2,HK1_2020
+SV_1_0007,Ly Hai Lan,Phat Trien Web,5.3,3,HK2_2020
+SV_1_0007,Ly Hai Lan,Vat Ly,5.8,2,HK2_2020
+SV_1_0007,Ly Hai Lan,Toan Roi Rac,5.1,3,HK2_2020
+SV_1_0007,Ly Hai Lan,Triet Hoc,4.0,2,HK3_2021
+SV_1_0007,Ly Hai Lan,Kien Truc May Tinh,6.3,3,HK3_2021
+SV_1_0007,Ly Hai Lan,Hoa Hoc,6.4,3,HK3_2021
+SV_1_0007,Ly Hai Lan,Toan Roi Rac,5.6,3,HK4_2021
+SV_1_0007,Ly Hai Lan,Tieng Anh 1,5.1,2,HK4_2021
+SV_1_0007,Ly Hai Lan,Tieng Anh 2,6.4,2,HK4_2021
+SV_1_0007,Ly Hai Lan,Lap Trinh C++,6.1,4,HK4_2021
+SV_1_0007,Ly Hai Lan,Vat Ly,7.5,2,HK4_2021
+SV_1_0008,Dang Ngoc Hieu,Tien Te Ngan Hang,9.0,2,HK1_2020
+SV_1_0008,Dang Ngoc Hieu,Vat Ly,7.8,2,HK1_2020
+SV_1_0008,Dang Ngoc Hieu,Mac - Lenin,7.7,2,HK1_2020
+SV_1_0008,Dang Ngoc Hieu,Cong Nghe PM,8.4,3,HK2_2020
+SV_1_0008,Dang Ngoc Hieu,Co So Du Lieu,6.0,3,HK2_2020
+SV_1_0008,Dang Ngoc Hieu,Toan Roi Rac,5.6,3,HK2_2020
+SV_1_0008,Dang Ngoc Hieu,Nhap Mon CNTT,7.9,3,HK2_2020
+SV_1_0008,Dang Ngoc Hieu,Nhap Mon CNTT,7.5,3,HK3_2021
+SV_1_0008,Dang Ngoc Hieu,He Dieu Hanh,8.1,3,HK3_2021
+SV_1_0008,Dang Ngoc Hieu,Toan Roi Rac,5.0,3,HK3_2021
+SV_1_0008,Dang Ngoc Hieu,CTDL & GT,8.3,4,HK4_2021
+SV_1_0008,Dang Ngoc Hieu,Tieng Anh 1,7.9,2,HK4_2021
+SV_1_0008,Dang Ngoc Hieu,Co So Du Lieu,7.4,3,HK4_2021
+SV_1_0008,Dang Ngoc Hieu,Phat Trien Web,6.8,3,HK4_2021
+SV_1_0009,Hoang Huu Phuong,Hoa Hoc,9.8,3,HK1_2020
+SV_1_0009,Hoang Huu Phuong,Tien Te Ngan Hang,8.5,2,HK1_2020
+SV_1_0009,Hoang Huu Phuong,Tieng Anh 1,8.0,2,HK1_2020
+SV_1_0009,Hoang Huu Phuong,Lap Trinh C++,7.2,4,HK1_2020
+SV_1_0009,Hoang Huu Phuong,Kinh Te Vi Mo,7.8,2,HK1_2020
+SV_1_0009,Hoang Huu Phuong,Vat Ly,5.5,2,HK2_2020
+SV_1_0009,Hoang Huu Phuong,Tieng Anh 1,6.7,2,HK2_2020
+SV_1_0009,Hoang Huu Phuong,Kinh Te Vi Mo,9.4,2,HK2_2020
+SV_1_0009,Hoang Huu Phuong,Toan Cao Cap,7.7,3,HK2_2020
+SV_1_0009,Hoang Huu Phuong,Hoa Hoc,8.1,3,HK3_2021
+SV_1_0009,Hoang Huu Phuong,Tu Tuong HCM,7.4,2,HK3_2021
+SV_1_0009,Hoang Huu Phuong,Cong Nghe PM,8.2,3,HK3_2021
+SV_1_0009,Hoang Huu Phuong,Hoa Hoc,7.1,3,HK4_2021
+SV_1_0009,Hoang Huu Phuong,Tieng Anh 1,9.8,2,HK4_2021
+SV_1_0009,Hoang Huu Phuong,CTDL & GT,7.7,4,HK4_2021
+SV_1_0009,Hoang Huu Phuong,Toan Cao Cap,7.3,3,HK4_2021
+SV_1_0010,Hoang Quoc Thang,Kien Truc May Tinh,5.7,3,HK1_2020
+SV_1_0010,Hoang Quoc Thang,Tu Tuong HCM,5.6,2,HK1_2020
+SV_1_0010,Hoang Quoc Thang,Toan Roi Rac,6.8,3,HK1_2020
+SV_1_0010,Hoang Quoc Thang,Toan Cao Cap,7.5,3,HK1_2020
+SV_1_0010,Hoang Quoc Thang,Co So Du Lieu,5.2,3,HK1_2020
+SV_1_0010,Hoang Quoc Thang,Toan Cao Cap,5.4,3,HK2_2020
+SV_1_0010,Hoang Quoc Thang,Nhap Mon CNTT,6.8,3,HK2_2020
+SV_1_0010,Hoang Quoc Thang,Triet Hoc,3.4,2,HK2_2020
+SV_1_0010,Hoang Quoc Thang,Tien Te Ngan Hang,4.9,2,HK2_2020
+SV_1_0010,Hoang Quoc Thang,Hoa Hoc,4.7,3,HK2_2020
+SV_1_0010,Hoang Quoc Thang,Co So Du Lieu,4.5,3,HK3_2021
+SV_1_0010,Hoang Quoc Thang,Toan Roi Rac,4.0,3,HK3_2021
+SV_1_0010,Hoang Quoc Thang,Kien Truc May Tinh,4.1,3,HK3_2021
+SV_1_0010,Hoang Quoc Thang,Nhap Mon CNTT,4.2,3,HK3_2021
+SV_1_0010,Hoang Quoc Thang,Toan Cao Cap,5.4,3,HK3_2021
+SV_1_0010,Hoang Quoc Thang,Triet Hoc,5.5,2,HK4_2021
+SV_1_0010,Hoang Quoc Thang,Phat Trien Web,4.8,3,HK4_2021
+SV_1_0010,Hoang Quoc Thang,Kien Truc May Tinh,5.1,3,HK4_2021
+SV_1_0011,Hoang Van Dung,Toan Cao Cap,5.4,3,HK1_2020
+SV_1_0011,Hoang Van Dung,Vat Ly,5.5,2,HK1_2020
+SV_1_0011,Hoang Van Dung,Tien Te Ngan Hang,4.9,2,HK1_2020
+SV_1_0011,Hoang Van Dung,Hoa Hoc,7.3,3,HK1_2020
+SV_1_0011,Hoang Van Dung,Cong Nghe PM,6.8,3,HK1_2020
+SV_1_0011,Hoang Van Dung,Hoa Hoc,6.2,3,HK2_2020
+SV_1_0011,Hoang Van Dung,CTDL & GT,5.2,4,HK2_2020
+SV_1_0011,Hoang Van Dung,Lap Trinh C++,6.5,4,HK2_2020
+SV_1_0011,Hoang Van Dung,Vat Ly,6.2,2,HK2_2020
+SV_1_0011,Hoang Van Dung,Kinh Te Vi Mo,7.0,2,HK2_2020
+SV_1_0011,Hoang Van Dung,CTDL & GT,4.4,4,HK3_2021
+SV_1_0011,Hoang Van Dung,Tieng Anh 2,5.1,2,HK3_2021
+SV_1_0011,Hoang Van Dung,Tien Te Ngan Hang,5.5,2,HK3_2021
+SV_1_0011,Hoang Van Dung,Toan Roi Rac,5.6,3,HK3_2021
+SV_1_0011,Hoang Van Dung,Tieng Anh 2,6.8,2,HK4_2021
+SV_1_0011,Hoang Van Dung,Cong Nghe PM,4.7,3,HK4_2021
+SV_1_0011,Hoang Van Dung,CTDL & GT,5.1,4,HK4_2021
+SV_1_0011,Hoang Van Dung,He Dieu Hanh,5.6,3,HK4_2021
+SV_1_0012,Phan Thanh Son,Mang May Tinh,8.6,3,HK1_2020
+SV_1_0012,Phan Thanh Son,Tieng Anh 2,7.6,2,HK1_2020
+SV_1_0012,Phan Thanh Son,Cong Nghe PM,7.3,3,HK1_2020
+SV_1_0012,Phan Thanh Son,Lap Trinh C++,7.4,4,HK2_2020
+SV_1_0012,Phan Thanh Son,Toan Cao Cap,6.7,3,HK2_2020
+SV_1_0012,Phan Thanh Son,Tien Te Ngan Hang,6.4,2,HK2_2020
+SV_1_0012,Phan Thanh Son,Mang May Tinh,7.2,3,HK2_2020
+SV_1_0012,Phan Thanh Son,Nhap Mon CNTT,5.9,3,HK3_2021
+SV_1_0012,Phan Thanh Son,Hoa Hoc,5.3,3,HK3_2021
+SV_1_0012,Phan Thanh Son,Mang May Tinh,8.0,3,HK3_2021
+SV_1_0012,Phan Thanh Son,Nhap Mon CNTT,5.3,3,HK4_2021
+SV_1_0012,Phan Thanh Son,Hoa Hoc,6.4,3,HK4_2021
+SV_1_0012,Phan Thanh Son,Co So Du Lieu,6.1,3,HK4_2021
+SV_1_0012,Phan Thanh Son,Tien Te Ngan Hang,6.2,2,HK4_2021
+SV_1_0013,Duong Tuan Truong,Tieng Anh 2,10.0,2,HK1_2020
+SV_1_0013,Duong Tuan Truong,Nhap Mon CNTT,9.0,3,HK1_2020
+SV_1_0013,Duong Tuan Truong,Toan Roi Rac,9.9,3,HK1_2020
+SV_1_0013,Duong Tuan Truong,He Dieu Hanh,10.0,3,HK1_2020
+SV_1_0013,Duong Tuan Truong,Vat Ly,9.4,2,HK2_2020
+SV_1_0013,Duong Tuan Truong,Kinh Te Vi Mo,10.0,2,HK2_2020
+SV_1_0013,Duong Tuan Truong,Tien Te Ngan Hang,10.0,2,HK2_2020
+SV_1_0013,Duong Tuan Truong,Cong Nghe PM,10.0,3,HK2_2020
+SV_1_0013,Duong Tuan Truong,CTDL & GT,9.1,4,HK3_2021
+SV_1_0013,Duong Tuan Truong,Toan Roi Rac,10.0,3,HK3_2021
+SV_1_0013,Duong Tuan Truong,Kien Truc May Tinh,10.0,3,HK3_2021
+SV_1_0013,Duong Tuan Truong,Hoa Hoc,9.8,3,HK3_2021
+SV_1_0013,Duong Tuan Truong,Tieng Anh 1,10.0,2,HK3_2021
+SV_1_0013,Duong Tuan Truong,Mac - Lenin,9.6,2,HK4_2021
+SV_1_0013,Duong Tuan Truong,Kinh Te Vi Mo,10.0,2,HK4_2021
+SV_1_0013,Duong Tuan Truong,CTDL & GT,10.0,4,HK4_2021
+SV_1_0013,Duong Tuan Truong,Mang May Tinh,10.0,3,HK4_2021
+SV_1_0014,Ly Quoc Mai,Tieng Anh 1,8.3,2,HK1_2020
+SV_1_0014,Ly Quoc Mai,Nhap Mon CNTT,5.1,3,HK1_2020
+SV_1_0014,Ly Quoc Mai,Kinh Te Vi Mo,5.7,2,HK1_2020
+SV_1_0014,Ly Quoc Mai,Mang May Tinh,5.7,3,HK1_2020
+SV_1_0014,Ly Quoc Mai,Hoa Hoc,6.3,3,HK1_2020
+SV_1_0014,Ly Quoc Mai,Phat Trien Web,4.9,3,HK2_2020
+SV_1_0014,Ly Quoc Mai,Mac - Lenin,8.0,2,HK2_2020
+SV_1_0014,Ly Quoc Mai,Lap Trinh C++,5.3,4,HK2_2020
+SV_1_0014,Ly Quoc Mai,Tieng Anh 1,6.8,2,HK2_2020
+SV_1_0014,Ly Quoc Mai,He Dieu Hanh,5.7,3,HK3_2021
+SV_1_0014,Ly Quoc Mai,CTDL & GT,6.4,4,HK3_2021
+SV_1_0014,Ly Quoc Mai,Vat Ly,5.9,2,HK3_2021
+SV_1_0014,Ly Quoc Mai,Nhap Mon CNTT,6.4,3,HK4_2021
+SV_1_0014,Ly Quoc Mai,Mang May Tinh,7.6,3,HK4_2021
+SV_1_0014,Ly Quoc Mai,Tieng Anh 1,5.7,2,HK4_2021
+SV_1_0014,Ly Quoc Mai,Co So Du Lieu,6.7,3,HK4_2021
+SV_1_0015,Dang Gia Dung,Phat Trien Web,4.9,3,HK1_2020
+SV_1_0015,Dang Gia Dung,CTDL & GT,2.5,4,HK1_2020
+SV_1_0015,Dang Gia Dung,Toan Cao Cap,3.3,3,HK1_2020
+SV_1_0015,Dang Gia Dung,Cong Nghe PM,2.0,3,HK1_2020
+SV_1_0015,Dang Gia Dung,Vat Ly,4.1,2,HK2_2020
+SV_1_0015,Dang Gia Dung,Nhap Mon CNTT,2.5,3,HK2_2020
+SV_1_0015,Dang Gia Dung,Cong Nghe PM,2.9,3,HK2_2020
+SV_1_0015,Dang Gia Dung,Hoa Hoc,3.6,3,HK2_2020
+SV_1_0015,Dang Gia Dung,Kien Truc May Tinh,3.6,3,HK2_2020
+SV_1_0015,Dang Gia Dung,Kinh Te Vi Mo,3.2,2,HK3_2021
+SV_1_0015,Dang Gia Dung,Kien Truc May Tinh,4.9,3,HK3_2021
+SV_1_0015,Dang Gia Dung,Triet Hoc,3.9,2,HK3_2021
+SV_1_0015,Dang Gia Dung,Tieng Anh 1,4.5,2,HK3_2021
+SV_1_0015,Dang Gia Dung,Tieng Anh 2,2.6,2,HK4_2021
+SV_1_0015,Dang Gia Dung,Mang May Tinh,4.5,3,HK4_2021
+SV_1_0015,Dang Gia Dung,Mac - Lenin,1.8,2,HK4_2021
+SV_1_0015,Dang Gia Dung,He Dieu Hanh,4.8,3,HK4_2021
+SV_1_0016,Phan Ngoc Dung,Mac - Lenin,7.5,2,HK1_2020
+SV_1_0016,Phan Ngoc Dung,He Dieu Hanh,6.6,3,HK1_2020
+SV_1_0016,Phan Ngoc Dung,Tien Te Ngan Hang,7.3,2,HK1_2020
+SV_1_0016,Phan Ngoc Dung,Vat Ly,6.3,2,HK1_2020
+SV_1_0016,Phan Ngoc Dung,CTDL & GT,6.4,4,HK2_2020
+SV_1_0016,Phan Ngoc Dung,Mac - Lenin,7.8,2,HK2_2020
+SV_1_0016,Phan Ngoc Dung,Cong Nghe PM,7.4,3,HK2_2020
+SV_1_0016,Phan Ngoc Dung,Nhap Mon CNTT,6.5,3,HK3_2021
+SV_1_0016,Phan Ngoc Dung,Co So Du Lieu,8.1,3,HK3_2021
+SV_1_0016,Phan Ngoc Dung,He Dieu Hanh,8.5,3,HK3_2021
+SV_1_0016,Phan Ngoc Dung,Toan Roi Rac,7.1,3,HK3_2021
+SV_1_0016,Phan Ngoc Dung,Tieng Anh 1,7.7,2,HK4_2021
+SV_1_0016,Phan Ngoc Dung,Vat Ly,5.4,2,HK4_2021
+SV_1_0016,Phan Ngoc Dung,Mang May Tinh,7.2,3,HK4_2021
+SV_1_0016,Phan Ngoc Dung,Toan Cao Cap,9.5,3,HK4_2021
+SV_1_0016,Phan Ngoc Dung,Toan Roi Rac,8.3,3,HK4_2021
+SV_1_0017,Nguyen Ngoc Mai,Cong Nghe PM,8.4,3,HK1_2020
+SV_1_0017,Nguyen Ngoc Mai,Phat Trien Web,6.9,3,HK1_2020
+SV_1_0017,Nguyen Ngoc Mai,He Dieu Hanh,7.3,3,HK1_2020
+SV_1_0017,Nguyen Ngoc Mai,Nhap Mon CNTT,7.7,3,HK1_2020
+SV_1_0017,Nguyen Ngoc Mai,CTDL & GT,6.7,4,HK2_2020
+SV_1_0017,Nguyen Ngoc Mai,Co So Du Lieu,7.3,3,HK2_2020
+SV_1_0017,Nguyen Ngoc Mai,Toan Cao Cap,8.5,3,HK2_2020
+SV_1_0017,Nguyen Ngoc Mai,Tieng Anh 2,10.0,2,HK2_2020
+SV_1_0017,Nguyen Ngoc Mai,Toan Roi Rac,6.7,3,HK3_2021
+SV_1_0017,Nguyen Ngoc Mai,Nhap Mon CNTT,7.4,3,HK3_2021
+SV_1_0017,Nguyen Ngoc Mai,Vat Ly,7.8,2,HK3_2021
+SV_1_0017,Nguyen Ngoc Mai,He Dieu Hanh,7.8,3,HK4_2021
+SV_1_0017,Nguyen Ngoc Mai,Toan Cao Cap,7.0,3,HK4_2021
+SV_1_0017,Nguyen Ngoc Mai,Vat Ly,7.7,2,HK4_2021
+SV_1_0017,Nguyen Ngoc Mai,Lap Trinh C++,6.0,4,HK4_2021
+SV_1_0017,Nguyen Ngoc Mai,Nhap Mon CNTT,5.4,3,HK4_2021
+SV_1_0018,Duong Manh Phuong,Kien Truc May Tinh,7.3,3,HK1_2020
+SV_1_0018,Duong Manh Phuong,Triet Hoc,8.4,2,HK1_2020
+SV_1_0018,Duong Manh Phuong,Tu Tuong HCM,8.9,2,HK1_2020
+SV_1_0018,Duong Manh Phuong,Mang May Tinh,7.6,3,HK1_2020
+SV_1_0018,Duong Manh Phuong,Lap Trinh C++,9.0,4,HK1_2020
+SV_1_0018,Duong Manh Phuong,Lap Trinh C++,6.0,4,HK2_2020
+SV_1_0018,Duong Manh Phuong,Toan Cao Cap,5.8,3,HK2_2020
+SV_1_0018,Duong Manh Phuong,Kien Truc May Tinh,8.9,3,HK2_2020
+SV_1_0018,Duong Manh Phuong,Phat Trien Web,7.3,3,HK3_2021
+SV_1_0018,Duong Manh Phuong,Tieng Anh 1,6.6,2,HK3_2021
+SV_1_0018,Duong Manh Phuong,Mang May Tinh,5.1,3,HK3_2021
+SV_1_0018,Duong Manh Phuong,Tieng Anh 2,7.2,2,HK3_2021
+SV_1_0018,Duong Manh Phuong,Tien Te Ngan Hang,7.8,2,HK4_2021
+SV_1_0018,Duong Manh Phuong,Vat Ly,5.7,2,HK4_2021
+SV_1_0018,Duong Manh Phuong,Mac - Lenin,7.1,2,HK4_2021
+SV_1_0019,Dang Anh Vinh,Mang May Tinh,6.7,3,HK1_2020
+SV_1_0019,Dang Anh Vinh,Nhap Mon CNTT,8.6,3,HK1_2020
+SV_1_0019,Dang Anh Vinh,Tieng Anh 2,7.2,2,HK1_2020
+SV_1_0019,Dang Anh Vinh,Lap Trinh C++,8.2,4,HK2_2020
+SV_1_0019,Dang Anh Vinh,Tieng Anh 1,9.1,2,HK2_2020
+SV_1_0019,Dang Anh Vinh,Tu Tuong HCM,9.0,2,HK2_2020
+SV_1_0019,Dang Anh Vinh,Phat Trien Web,6.1,3,HK2_2020
+SV_1_0019,Dang Anh Vinh,Tien Te Ngan Hang,7.1,2,HK2_2020
+SV_1_0019,Dang Anh Vinh,Toan Cao Cap,8.8,3,HK3_2021
+SV_1_0019,Dang Anh Vinh,He Dieu Hanh,6.8,3,HK3_2021
+SV_1_0019,Dang Anh Vinh,Nhap Mon CNTT,6.9,3,HK3_2021
+SV_1_0019,Dang Anh Vinh,Toan Roi Rac,5.8,3,HK4_2021
+SV_1_0019,Dang Anh Vinh,Hoa Hoc,5.9,3,HK4_2021
+SV_1_0019,Dang Anh Vinh,Toan Cao Cap,8.3,3,HK4_2021
+SV_1_0020,Vu Thi Mai,Toan Cao Cap,8.3,3,HK1_2020
+SV_1_0020,Vu Thi Mai,Triet Hoc,7.4,2,HK1_2020
+SV_1_0020,Vu Thi Mai,Mac - Lenin,8.5,2,HK1_2020
+SV_1_0020,Vu Thi Mai,Kinh Te Vi Mo,9.4,2,HK1_2020
+SV_1_0020,Vu Thi Mai,Kinh Te Vi Mo,7.4,2,HK2_2020
+SV_1_0020,Vu Thi Mai,Toan Cao Cap,7.2,3,HK2_2020
+SV_1_0020,Vu Thi Mai,Tieng Anh 2,7.6,2,HK2_2020
+SV_1_0020,Vu Thi Mai,Vat Ly,9.0,2,HK2_2020
+SV_1_0020,Vu Thi Mai,Tu Tuong HCM,6.6,2,HK3_2021
+SV_1_0020,Vu Thi Mai,Mang May Tinh,8.8,3,HK3_2021
+SV_1_0020,Vu Thi Mai,CTDL & GT,6.9,4,HK3_2021
+SV_1_0020,Vu Thi Mai,Tieng Anh 2,7.1,2,HK4_2021
+SV_1_0020,Vu Thi Mai,Kinh Te Vi Mo,6.7,2,HK4_2021
+SV_1_0020,Vu Thi Mai,Vat Ly,6.4,2,HK4_2021
+SV_1_0020,Vu Thi Mai,Mang May Tinh,6.8,3,HK4_2021
+SV_1_0021,Do Quoc Khoa,Vat Ly,7.7,2,HK1_2020
+SV_1_0021,Do Quoc Khoa,CTDL & GT,4.7,4,HK1_2020
+SV_1_0021,Do Quoc Khoa,Kien Truc May Tinh,6.9,3,HK1_2020
+SV_1_0021,Do Quoc Khoa,Toan Cao Cap,6.6,3,HK1_2020
+SV_1_0021,Do Quoc Khoa,Kinh Te Vi Mo,6.2,2,HK1_2020
+SV_1_0021,Do Quoc Khoa,Tu Tuong HCM,5.9,2,HK2_2020
+SV_1_0021,Do Quoc Khoa,Co So Du Lieu,6.4,3,HK2_2020
+SV_1_0021,Do Quoc Khoa,Kien Truc May Tinh,6.8,3,HK2_2020
+SV_1_0021,Do Quoc Khoa,Tien Te Ngan Hang,7.5,2,HK2_2020
+SV_1_0021,Do Quoc Khoa,Toan Cao Cap,8.1,3,HK2_2020
+SV_1_0021,Do Quoc Khoa,Nhap Mon CNTT,9.9,3,HK3_2021
+SV_1_0021,Do Quoc Khoa,Kinh Te Vi Mo,7.5,2,HK3_2021
+SV_1_0021,Do Quoc Khoa,He Dieu Hanh,7.7,3,HK3_2021
+SV_1_0021,Do Quoc Khoa,Tien Te Ngan Hang,6.5,2,HK4_2021
+SV_1_0021,Do Quoc Khoa,Cong Nghe PM,7.8,3,HK4_2021
+SV_1_0021,Do Quoc Khoa,CTDL & GT,9.2,4,HK4_2021
+SV_1_0022,Vo Tuan Cuong,Tieng Anh 2,5.2,2,HK1_2020
+SV_1_0022,Vo Tuan Cuong,Mac - Lenin,8.1,2,HK1_2020
+SV_1_0022,Vo Tuan Cuong,Toan Roi Rac,5.8,3,HK1_2020
+SV_1_0022,Vo Tuan Cuong,Tieng Anh 1,8.2,2,HK2_2020
+SV_1_0022,Vo Tuan Cuong,Nhap Mon CNTT,6.8,3,HK2_2020
+SV_1_0022,Vo Tuan Cuong,Mac - Lenin,6.6,2,HK2_2020
+SV_1_0022,Vo Tuan Cuong,Tien Te Ngan Hang,6.7,2,HK2_2020
+SV_1_0022,Vo Tuan Cuong,CTDL & GT,7.5,4,HK2_2020
+SV_1_0022,Vo Tuan Cuong,Lap Trinh C++,8.3,4,HK3_2021
+SV_1_0022,Vo Tuan Cuong,Toan Roi Rac,6.8,3,HK3_2021
+SV_1_0022,Vo Tuan Cuong,Mang May Tinh,9.4,3,HK3_2021
+SV_1_0022,Vo Tuan Cuong,Kien Truc May Tinh,8.2,3,HK3_2021
+SV_1_0022,Vo Tuan Cuong,Kien Truc May Tinh,8.3,3,HK4_2021
+SV_1_0022,Vo Tuan Cuong,Vat Ly,7.5,2,HK4_2021
+SV_1_0022,Vo Tuan Cuong,Cong Nghe PM,6.5,3,HK4_2021
+SV_1_0023,Phan Anh Kien,Cong Nghe PM,6.2,3,HK1_2020
+SV_1_0023,Phan Anh Kien,Tu Tuong HCM,7.3,2,HK1_2020
+SV_1_0023,Phan Anh Kien,Triet Hoc,7.9,2,HK1_2020
+SV_1_0023,Phan Anh Kien,Tieng Anh 1,6.3,2,HK1_2020
+SV_1_0023,Phan Anh Kien,He Dieu Hanh,6.5,3,HK2_2020
+SV_1_0023,Phan Anh Kien,Lap Trinh C++,4.3,4,HK2_2020
+SV_1_0023,Phan Anh Kien,Tien Te Ngan Hang,5.7,2,HK2_2020
+SV_1_0023,Phan Anh Kien,Kinh Te Vi Mo,7.3,2,HK2_2020
+SV_1_0023,Phan Anh Kien,Cong Nghe PM,6.7,3,HK2_2020
+SV_1_0023,Phan Anh Kien,Kinh Te Vi Mo,6.2,2,HK3_2021
+SV_1_0023,Phan Anh Kien,Tien Te Ngan Hang,4.6,2,HK3_2021
+SV_1_0023,Phan Anh Kien,Phat Trien Web,5.8,3,HK3_2021
+SV_1_0023,Phan Anh Kien,Toan Roi Rac,4.1,3,HK4_2021
+SV_1_0023,Phan Anh Kien,Tieng Anh 1,6.9,2,HK4_2021
+SV_1_0023,Phan Anh Kien,CTDL & GT,5.0,4,HK4_2021
+SV_1_0023,Phan Anh Kien,Tu Tuong HCM,5.5,2,HK4_2021
+SV_1_0024,Dang Tuan Vinh,Toan Roi Rac,7.2,3,HK1_2020
+SV_1_0024,Dang Tuan Vinh,Nhap Mon CNTT,8.3,3,HK1_2020
+SV_1_0024,Dang Tuan Vinh,Tu Tuong HCM,6.8,2,HK1_2020
+SV_1_0024,Dang Tuan Vinh,CTDL & GT,7.6,4,HK1_2020
+SV_1_0024,Dang Tuan Vinh,Tieng Anh 2,6.9,2,HK2_2020
+SV_1_0024,Dang Tuan Vinh,Tien Te Ngan Hang,6.9,2,HK2_2020
+SV_1_0024,Dang Tuan Vinh,Phat Trien Web,5.8,3,HK2_2020
+SV_1_0024,Dang Tuan Vinh,Vat Ly,6.5,2,HK2_2020
+SV_1_0024,Dang Tuan Vinh,Nhap Mon CNTT,5.4,3,HK3_2021
+SV_1_0024,Dang Tuan Vinh,Cong Nghe PM,5.9,3,HK3_2021
+SV_1_0024,Dang Tuan Vinh,Lap Trinh C++,8.1,4,HK3_2021
+SV_1_0024,Dang Tuan Vinh,Kien Truc May Tinh,5.6,3,HK3_2021
+SV_1_0024,Dang Tuan Vinh,He Dieu Hanh,6.7,3,HK3_2021
+SV_1_0024,Dang Tuan Vinh,Kinh Te Vi Mo,7.3,2,HK4_2021
+SV_1_0024,Dang Tuan Vinh,Tieng Anh 1,6.0,2,HK4_2021
+SV_1_0024,Dang Tuan Vinh,He Dieu Hanh,4.9,3,HK4_2021
+SV_1_0025,Le Quang Hieu,Nhap Mon CNTT,8.4,3,HK1_2020
+SV_1_0025,Le Quang Hieu,Phat Trien Web,6.8,3,HK1_2020
+SV_1_0025,Le Quang Hieu,Tieng Anh 2,8.3,2,HK1_2020
+SV_1_0025,Le Quang Hieu,Mac - Lenin,7.9,2,HK2_2020
+SV_1_0025,Le Quang Hieu,Kinh Te Vi Mo,8.5,2,HK2_2020
+SV_1_0025,Le Quang Hieu,Nhap Mon CNTT,9.3,3,HK2_2020
+SV_1_0025,Le Quang Hieu,Lap Trinh C++,8.2,4,HK3_2021
+SV_1_0025,Le Quang Hieu,Mac - Lenin,6.2,2,HK3_2021
+SV_1_0025,Le Quang Hieu,CTDL & GT,8.0,4,HK3_2021
+SV_1_0025,Le Quang Hieu,Nhap Mon CNTT,6.7,3,HK3_2021
+SV_1_0025,Le Quang Hieu,Mang May Tinh,6.2,3,HK4_2021
+SV_1_0025,Le Quang Hieu,Mac - Lenin,8.8,2,HK4_2021
+SV_1_0025,Le Quang Hieu,Tieng Anh 2,6.4,2,HK4_2021
+SV_1_0026,Dang Thuy Nghia,Mang May Tinh,6.3,3,HK1_2020
+SV_1_0026,Dang Thuy Nghia,Hoa Hoc,7.7,3,HK1_2020
+SV_1_0026,Dang Thuy Nghia,Tien Te Ngan Hang,5.9,2,HK1_2020
+SV_1_0026,Dang Thuy Nghia,Triet Hoc,6.0,2,HK2_2020
+SV_1_0026,Dang Thuy Nghia,Toan Cao Cap,6.7,3,HK2_2020
+SV_1_0026,Dang Thuy Nghia,Tu Tuong HCM,4.6,2,HK2_2020
+SV_1_0026,Dang Thuy Nghia,Co So Du Lieu,4.7,3,HK2_2020
+SV_1_0026,Dang Thuy Nghia,Nhap Mon CNTT,4.0,3,HK2_2020
+SV_1_0026,Dang Thuy Nghia,Phat Trien Web,4.5,3,HK3_2021
+SV_1_0026,Dang Thuy Nghia,He Dieu Hanh,7.0,3,HK3_2021
+SV_1_0026,Dang Thuy Nghia,CTDL & GT,6.5,4,HK3_2021
+SV_1_0026,Dang Thuy Nghia,Tieng Anh 1,6.3,2,HK3_2021
+SV_1_0026,Dang Thuy Nghia,Cong Nghe PM,4.8,3,HK3_2021
+SV_1_0026,Dang Thuy Nghia,Hoa Hoc,5.2,3,HK4_2021
+SV_1_0026,Dang Thuy Nghia,Nhap Mon CNTT,6.1,3,HK4_2021
+SV_1_0026,Dang Thuy Nghia,Kien Truc May Tinh,5.7,3,HK4_2021
+SV_1_0026,Dang Thuy Nghia,Mang May Tinh,5.7,3,HK4_2021
+SV_1_0026,Dang Thuy Nghia,Phat Trien Web,5.9,3,HK4_2021
+SV_1_0027,Nguyen Anh Mai,Tieng Anh 2,6.0,2,HK1_2020
+SV_1_0027,Nguyen Anh Mai,Tu Tuong HCM,9.1,2,HK1_2020
+SV_1_0027,Nguyen Anh Mai,Mang May Tinh,7.2,3,HK1_2020
+SV_1_0027,Nguyen Anh Mai,Lap Trinh C++,7.8,4,HK1_2020
+SV_1_0027,Nguyen Anh Mai,Co So Du Lieu,8.0,3,HK2_2020
+SV_1_0027,Nguyen Anh Mai,Hoa Hoc,5.7,3,HK2_2020
+SV_1_0027,Nguyen Anh Mai,Triet Hoc,7.3,2,HK2_2020
+SV_1_0027,Nguyen Anh Mai,Mang May Tinh,6.8,3,HK3_2021
+SV_1_0027,Nguyen Anh Mai,Vat Ly,8.1,2,HK3_2021
+SV_1_0027,Nguyen Anh Mai,Kinh Te Vi Mo,5.9,2,HK3_2021
+SV_1_0027,Nguyen Anh Mai,Tieng Anh 2,7.0,2,HK3_2021
+SV_1_0027,Nguyen Anh Mai,Toan Cao Cap,5.5,3,HK3_2021
+SV_1_0027,Nguyen Anh Mai,Toan Roi Rac,6.8,3,HK4_2021
+SV_1_0027,Nguyen Anh Mai,Toan Cao Cap,7.9,3,HK4_2021
+SV_1_0027,Nguyen Anh Mai,Nhap Mon CNTT,6.7,3,HK4_2021
+SV_1_0027,Nguyen Anh Mai,Tieng Anh 1,7.8,2,HK4_2021
+SV_1_0027,Nguyen Anh Mai,Triet Hoc,5.7,2,HK4_2021
+SV_1_0028,Vo Anh Cuong,He Dieu Hanh,5.4,3,HK1_2020
+SV_1_0028,Vo Anh Cuong,Toan Cao Cap,6.8,3,HK1_2020
+SV_1_0028,Vo Anh Cuong,Lap Trinh C++,6.8,4,HK1_2020
+SV_1_0028,Vo Anh Cuong,Toan Cao Cap,4.9,3,HK2_2020
+SV_1_0028,Vo Anh Cuong,Triet Hoc,6.1,2,HK2_2020
+SV_1_0028,Vo Anh Cuong,Co So Du Lieu,5.4,3,HK2_2020
+SV_1_0028,Vo Anh Cuong,Tieng Anh 1,6.6,2,HK3_2021
+SV_1_0028,Vo Anh Cuong,Mac - Lenin,6.9,2,HK3_2021
+SV_1_0028,Vo Anh Cuong,Hoa Hoc,6.5,3,HK3_2021
+SV_1_0028,Vo Anh Cuong,Kien Truc May Tinh,6.0,3,HK3_2021
+SV_1_0028,Vo Anh Cuong,Tien Te Ngan Hang,5.2,2,HK3_2021
+SV_1_0028,Vo Anh Cuong,Tieng Anh 2,5.1,2,HK4_2021
+SV_1_0028,Vo Anh Cuong,Lap Trinh C++,5.7,4,HK4_2021
+SV_1_0028,Vo Anh Cuong,Tieng Anh 1,6.0,2,HK4_2021
+SV_1_0029,Hoang Thuy Dat,Mac - Lenin,5.9,2,HK1_2020
+SV_1_0029,Hoang Thuy Dat,CTDL & GT,5.1,4,HK1_2020
+SV_1_0029,Hoang Thuy Dat,Kien Truc May Tinh,5.3,3,HK1_2020
+SV_1_0029,Hoang Thuy Dat,Tu Tuong HCM,5.9,2,HK1_2020
+SV_1_0029,Hoang Thuy Dat,Phat Trien Web,5.7,3,HK1_2020
+SV_1_0029,Hoang Thuy Dat,Cong Nghe PM,6.4,3,HK2_2020
+SV_1_0029,Hoang Thuy Dat,Kien Truc May Tinh,5.3,3,HK2_2020
+SV_1_0029,Hoang Thuy Dat,Phat Trien Web,6.2,3,HK2_2020
+SV_1_0029,Hoang Thuy Dat,Lap Trinh C++,6.2,4,HK2_2020
+SV_1_0029,Hoang Thuy Dat,Lap Trinh C++,4.2,4,HK3_2021
+SV_1_0029,Hoang Thuy Dat,Kien Truc May Tinh,5.7,3,HK3_2021
+SV_1_0029,Hoang Thuy Dat,Tu Tuong HCM,4.5,2,HK3_2021
+SV_1_0029,Hoang Thuy Dat,He Dieu Hanh,3.9,3,HK3_2021
+SV_1_0029,Hoang Thuy Dat,Lap Trinh C++,5.9,4,HK4_2021
+SV_1_0029,Hoang Thuy Dat,Tien Te Ngan Hang,4.5,2,HK4_2021
+SV_1_0029,Hoang Thuy Dat,Cong Nghe PM,4.6,3,HK4_2021
+SV_1_0029,Hoang Thuy Dat,Kien Truc May Tinh,5.6,3,HK4_2021
+SV_1_0029,Hoang Thuy Dat,Vat Ly,6.8,2,HK4_2021
+SV_1_0030,Pham Thuy An,Kinh Te Vi Mo,8.8,2,HK1_2020
+SV_1_0030,Pham Thuy An,Tieng Anh 1,7.5,2,HK1_2020
+SV_1_0030,Pham Thuy An,Vat Ly,6.1,2,HK1_2020
+SV_1_0030,Pham Thuy An,Cong Nghe PM,8.0,3,HK1_2020
+SV_1_0030,Pham Thuy An,Kien Truc May Tinh,6.9,3,HK1_2020
+SV_1_0030,Pham Thuy An,Mang May Tinh,7.2,3,HK2_2020
+SV_1_0030,Pham Thuy An,Tien Te Ngan Hang,7.6,2,HK2_2020
+SV_1_0030,Pham Thuy An,Vat Ly,6.7,2,HK2_2020
+SV_1_0030,Pham Thuy An,Nhap Mon CNTT,8.5,3,HK2_2020
+SV_1_0030,Pham Thuy An,Kinh Te Vi Mo,7.2,2,HK2_2020
+SV_1_0030,Pham Thuy An,Toan Roi Rac,7.2,3,HK3_2021
+SV_1_0030,Pham Thuy An,Kinh Te Vi Mo,7.1,2,HK3_2021
+SV_1_0030,Pham Thuy An,Hoa Hoc,8.9,3,HK3_2021
+SV_1_0030,Pham Thuy An,Mang May Tinh,8.2,3,HK4_2021
+SV_1_0030,Pham Thuy An,Phat Trien Web,8.6,3,HK4_2021
+SV_1_0030,Pham Thuy An,Vat Ly,8.0,2,HK4_2021
+SV_1_0030,Pham Thuy An,Nhap Mon CNTT,8.3,3,HK4_2021
+SV_1_0030,Pham Thuy An,He Dieu Hanh,8.1,3,HK4_2021

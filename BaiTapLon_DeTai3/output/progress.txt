@@ -1,0 +1,270 @@
+=== SV_1_0001 - Bui Tuan Phuc ===
+GPA theo kỳ: HK1_2020=7.08, HK2_2020=5.89, HK3_2021=5.47, HK4_2021=7.07
+Delta GPA (so với TB=6.38): +0.70, -0.48, -0.91, +0.69
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.70
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 6.49, 5.68, 6.27
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=10, HK1_2020-HK2_2020=24, HK1_2020-HK3_2021=33, HK1_2020-HK4_2021=42
+
+=== SV_1_0002 - Vu Thuy Cuong ===
+GPA theo kỳ: HK1_2020=7.85, HK2_2020=7.81, HK3_2021=7.78, HK4_2021=8.34
+Delta GPA (so với TB=7.94): -0.09, -0.13, -0.17, +0.39
+Đoạn kỳ học tốt nhất (Kadane): [HK4_2021 -> HK4_2021], delta = +0.39
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 7.83, 7.79, 8.06
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=17, HK1_2020-HK3_2021=29, HK1_2020-HK4_2021=37
+
+=== SV_1_0003 - Pham Xuan An ===
+GPA theo kỳ: HK1_2020=5.40, HK2_2020=5.35, HK3_2021=5.13, HK4_2021=5.42
+Delta GPA (so với TB=5.33): +0.07, +0.02, -0.19, +0.09
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.10
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 5.38, 5.24, 5.28
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=9, HK1_2020-HK2_2020=21, HK1_2020-HK3_2021=36, HK1_2020-HK4_2021=46
+
+=== SV_1_0004 - Hoang Thi Dung ===
+GPA theo kỳ: HK1_2020=6.03, HK2_2020=7.71, HK3_2021=6.73, HK4_2021=6.10
+Delta GPA (so với TB=6.64): -0.61, +1.07, +0.09, -0.54
+Đoạn kỳ học tốt nhất (Kadane): [HK2_2020 -> HK3_2021], delta = +1.16
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 6.87, 7.22, 6.42
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=21, HK1_2020-HK3_2021=33, HK1_2020-HK4_2021=45
+
+=== SV_1_0005 - Pham Manh Son ===
+GPA theo kỳ: HK1_2020=5.74, HK2_2020=5.74, HK3_2021=5.06, HK4_2021=5.75
+Delta GPA (so với TB=5.57): +0.17, +0.17, -0.51, +0.18
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.34
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 5.74, 5.40, 5.40
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=25, HK1_2020-HK3_2021=32, HK1_2020-HK4_2021=44
+
+=== SV_1_0006 - Tran Van Linh ===
+GPA theo kỳ: HK1_2020=7.26, HK2_2020=7.29, HK3_2021=7.61, HK4_2021=6.63
+Delta GPA (so với TB=7.20): +0.07, +0.09, +0.41, -0.56
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK3_2021], delta = +0.56
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK1_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 7.27, 7.45, 7.12
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=22, HK1_2020-HK3_2021=36, HK1_2020-HK4_2021=45
+
+=== SV_1_0007 - Ly Hai Lan ===
+GPA theo kỳ: HK1_2020=5.99, HK2_2020=5.35, HK3_2021=5.76, HK4_2021=6.09
+Delta GPA (so với TB=5.80): +0.19, -0.45, -0.04, +0.29
+Đoạn kỳ học tốt nhất (Kadane): [HK4_2021 -> HK4_2021], delta = +0.29
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK2_2020 -> HK4_2021]
+GPA trung bình trượt (k=2): 5.67, 5.56, 5.93
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=11, HK1_2020-HK2_2020=19, HK1_2020-HK3_2021=27, HK1_2020-HK4_2021=40
+
+=== SV_1_0008 - Dang Ngoc Hieu ===
+GPA theo kỳ: HK1_2020=8.17, HK2_2020=6.98, HK3_2021=6.87, HK4_2021=7.63
+Delta GPA (so với TB=7.41): +0.76, -0.44, -0.54, +0.22
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.76
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 7.57, 6.92, 7.25
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=6, HK1_2020-HK2_2020=18, HK1_2020-HK3_2021=27, HK1_2020-HK4_2021=39
+
+=== SV_1_0009 - Hoang Huu Phuong ===
+GPA theo kỳ: HK1_2020=8.22, HK2_2020=7.37, HK3_2021=7.96, HK4_2021=7.80
+Delta GPA (so với TB=7.84): +0.38, -0.47, +0.13, -0.04
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.38
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK2_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 7.79, 7.66, 7.88
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=22, HK1_2020-HK3_2021=30, HK1_2020-HK4_2021=42
+
+=== SV_1_0010 - Hoang Quoc Thang ===
+GPA theo kỳ: HK1_2020=6.20, HK2_2020=5.18, HK3_2021=4.44, HK4_2021=5.09
+Delta GPA (so với TB=5.23): +0.97, -0.05, -0.79, -0.14
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.97
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 5.69, 4.81, 4.76
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=14, HK1_2020-HK2_2020=27, HK1_2020-HK3_2021=42, HK1_2020-HK4_2021=50
+
+=== SV_1_0011 - Hoang Van Dung ===
+GPA theo kỳ: HK1_2020=6.10, HK2_2020=6.12, HK3_2021=5.05, HK4_2021=5.41
+Delta GPA (so với TB=5.67): +0.43, +0.45, -0.62, -0.26
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.88
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 6.11, 5.59, 5.23
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=28, HK1_2020-HK3_2021=39, HK1_2020-HK4_2021=51
+
+=== SV_1_0012 - Phan Thanh Son ===
+GPA theo kỳ: HK1_2020=7.86, HK2_2020=7.01, HK3_2021=6.40, HK4_2021=5.98
+Delta GPA (so với TB=6.81): +1.05, +0.20, -0.41, -0.83
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +1.24
+Chuỗi GPA tăng dài nhất: 1 kỳ liên tiếp
+GPA trung bình trượt (k=2): 7.44, 6.70, 6.19
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=20, HK1_2020-HK3_2021=29, HK1_2020-HK4_2021=40
+
+=== SV_1_0013 - Duong Tuan Truong ===
+GPA theo kỳ: HK1_2020=9.70, HK2_2020=9.87, HK3_2021=9.72, HK4_2021=9.93
+Delta GPA (so với TB=9.80): -0.10, +0.06, -0.08, +0.12
+Đoạn kỳ học tốt nhất (Kadane): [HK4_2021 -> HK4_2021], delta = +0.12
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 9.78, 9.79, 9.82
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=11, HK1_2020-HK2_2020=20, HK1_2020-HK3_2021=35, HK1_2020-HK4_2021=46
+
+=== SV_1_0014 - Ly Quoc Mai ===
+GPA theo kỳ: HK1_2020=6.10, HK2_2020=5.95, HK3_2021=6.06, HK4_2021=6.68
+Delta GPA (so với TB=6.20): -0.10, -0.24, -0.14, +0.48
+Đoạn kỳ học tốt nhất (Kadane): [HK4_2021 -> HK4_2021], delta = +0.48
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK2_2020 -> HK4_2021]
+GPA trung bình trượt (k=2): 6.03, 6.01, 6.37
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=24, HK1_2020-HK3_2021=33, HK1_2020-HK4_2021=44
+
+=== SV_1_0015 - Dang Gia Dung ===
+GPA theo kỳ: HK1_2020=3.12, HK2_2020=3.29, HK3_2021=4.21, HK4_2021=3.67
+Delta GPA (so với TB=3.57): -0.45, -0.29, +0.64, +0.10
+Đoạn kỳ học tốt nhất (Kadane): [HK3_2021 -> HK4_2021], delta = +0.74
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK1_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 3.20, 3.75, 3.94
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=13, HK1_2020-HK2_2020=27, HK1_2020-HK3_2021=36, HK1_2020-HK4_2021=46
+
+=== SV_1_0016 - Phan Ngoc Dung ===
+GPA theo kỳ: HK1_2020=6.89, HK2_2020=7.04, HK3_2021=7.55, HK4_2021=7.78
+Delta GPA (so với TB=7.32): -0.43, -0.27, +0.23, +0.47
+Đoạn kỳ học tốt nhất (Kadane): [HK3_2021 -> HK4_2021], delta = +0.70
+Chuỗi GPA tăng dài nhất: 4 kỳ liên tiếp [HK1_2020 -> HK4_2021]
+GPA trung bình trượt (k=2): 6.97, 7.30, 7.67
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=9, HK1_2020-HK2_2020=18, HK1_2020-HK3_2021=30, HK1_2020-HK4_2021=43
+
+=== SV_1_0017 - Nguyen Ngoc Mai ===
+GPA theo kỳ: HK1_2020=7.58, HK2_2020=7.85, HK3_2021=7.24, HK4_2021=6.67
+Delta GPA (so với TB=7.33): +0.24, +0.52, -0.09, -0.67
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.76
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 7.71, 7.54, 6.95
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=12, HK1_2020-HK2_2020=24, HK1_2020-HK3_2021=32, HK1_2020-HK4_2021=47
+
+=== SV_1_0018 - Duong Manh Phuong ===
+GPA theo kỳ: HK1_2020=8.24, HK2_2020=6.81, HK3_2021=6.48, HK4_2021=6.87
+Delta GPA (so với TB=7.10): +1.14, -0.29, -0.62, -0.23
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +1.14
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 7.52, 6.64, 6.67
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=14, HK1_2020-HK2_2020=24, HK1_2020-HK3_2021=34, HK1_2020-HK4_2021=40
+
+=== SV_1_0019 - Dang Anh Vinh ===
+GPA theo kỳ: HK1_2020=7.54, HK2_2020=7.81, HK3_2021=7.50, HK4_2021=6.67
+Delta GPA (so với TB=7.38): +0.16, +0.43, +0.12, -0.71
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK3_2021], delta = +0.71
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 7.67, 7.65, 7.08
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=21, HK1_2020-HK3_2021=30, HK1_2020-HK4_2021=39
+
+=== SV_1_0020 - Vu Thi Mai ===
+GPA theo kỳ: HK1_2020=8.39, HK2_2020=7.73, HK3_2021=7.47, HK4_2021=6.76
+Delta GPA (so với TB=7.59): +0.80, +0.15, -0.12, -0.83
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.95
+Chuỗi GPA tăng dài nhất: 1 kỳ liên tiếp
+GPA trung bình trượt (k=2): 8.06, 7.60, 7.11
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=9, HK1_2020-HK2_2020=18, HK1_2020-HK3_2021=27, HK1_2020-HK4_2021=36
+
+=== SV_1_0021 - Do Quoc Khoa ===
+GPA theo kỳ: HK1_2020=6.22, HK2_2020=6.98, HK3_2021=8.48, HK4_2021=8.13
+Delta GPA (so với TB=7.45): -1.23, -0.47, +1.02, +0.68
+Đoạn kỳ học tốt nhất (Kadane): [HK3_2021 -> HK4_2021], delta = +1.70
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK1_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 6.60, 7.73, 8.30
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=14, HK1_2020-HK2_2020=27, HK1_2020-HK3_2021=35, HK1_2020-HK4_2021=44
+
+=== SV_1_0022 - Vo Tuan Cuong ===
+GPA theo kỳ: HK1_2020=6.29, HK2_2020=7.18, HK3_2021=8.18, HK4_2021=7.43
+Delta GPA (so với TB=7.27): -0.98, -0.09, +0.91, +0.16
+Đoạn kỳ học tốt nhất (Kadane): [HK3_2021 -> HK4_2021], delta = +1.07
+Chuỗi GPA tăng dài nhất: 3 kỳ liên tiếp [HK1_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 6.74, 7.68, 7.80
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=7, HK1_2020-HK2_2020=20, HK1_2020-HK3_2021=33, HK1_2020-HK4_2021=41
+
+=== SV_1_0023 - Phan Anh Kien ===
+GPA theo kỳ: HK1_2020=6.84, HK2_2020=5.91, HK3_2021=5.57, HK4_2021=5.19
+Delta GPA (so với TB=5.88): +0.96, +0.03, -0.31, -0.69
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +1.00
+Chuỗi GPA tăng dài nhất: 1 kỳ liên tiếp
+GPA trung bình trượt (k=2): 6.38, 5.74, 5.38
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=9, HK1_2020-HK2_2020=23, HK1_2020-HK3_2021=30, HK1_2020-HK4_2021=41
+
+=== SV_1_0024 - Dang Tuan Vinh ===
+GPA theo kỳ: HK1_2020=7.54, HK2_2020=6.44, HK3_2021=6.45, HK4_2021=5.90
+Delta GPA (so với TB=6.58): +0.96, -0.14, -0.13, -0.68
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.96
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK2_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 6.99, 6.45, 6.18
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=12, HK1_2020-HK2_2020=21, HK1_2020-HK3_2021=37, HK1_2020-HK4_2021=44
+
+=== SV_1_0025 - Le Quang Hieu ===
+GPA theo kỳ: HK1_2020=7.78, HK2_2020=8.67, HK3_2021=7.48, HK4_2021=7.00
+Delta GPA (so với TB=7.73): +0.04, +0.94, -0.25, -0.73
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.98
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 8.22, 8.08, 7.24
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=15, HK1_2020-HK3_2021=28, HK1_2020-HK4_2021=35
+
+=== SV_1_0026 - Dang Thuy Nghia ===
+GPA theo kỳ: HK1_2020=6.72, HK2_2020=5.18, HK3_2021=5.83, HK4_2021=5.72
+Delta GPA (so với TB=5.87): +0.86, -0.68, -0.03, -0.15
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.86
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK2_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 5.95, 5.51, 5.78
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=8, HK1_2020-HK2_2020=21, HK1_2020-HK3_2021=36, HK1_2020-HK4_2021=51
+
+=== SV_1_0027 - Nguyen Anh Mai ===
+GPA theo kỳ: HK1_2020=7.55, HK2_2020=6.96, HK3_2021=6.57, HK4_2021=7.02
+Delta GPA (so với TB=7.02): +0.52, -0.06, -0.45, -0.01
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.52
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK3_2021 -> HK4_2021]
+GPA trung bình trượt (k=2): 7.25, 6.77, 6.80
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=11, HK1_2020-HK2_2020=19, HK1_2020-HK3_2021=31, HK1_2020-HK4_2021=44
+
+=== SV_1_0028 - Vo Anh Cuong ===
+GPA theo kỳ: HK1_2020=6.38, HK2_2020=5.39, HK3_2021=6.24, HK4_2021=5.62
+Delta GPA (so với TB=5.91): +0.47, -0.52, +0.33, -0.28
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK1_2020], delta = +0.47
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK2_2020 -> HK3_2021]
+GPA trung bình trượt (k=2): 5.88, 5.81, 5.93
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=10, HK1_2020-HK2_2020=18, HK1_2020-HK3_2021=30, HK1_2020-HK4_2021=38
+
+=== SV_1_0029 - Hoang Thuy Dat ===
+GPA theo kỳ: HK1_2020=5.50, HK2_2020=6.04, HK3_2021=4.55, HK4_2021=5.49
+Delta GPA (so với TB=5.39): +0.11, +0.64, -0.84, +0.09
+Đoạn kỳ học tốt nhất (Kadane): [HK1_2020 -> HK2_2020], delta = +0.75
+Chuỗi GPA tăng dài nhất: 2 kỳ liên tiếp [HK1_2020 -> HK2_2020]
+GPA trung bình trượt (k=2): 5.77, 5.29, 5.02
+Cảnh báo sụt giảm: Có
+Tín chỉ tích lũy: HK1_2020=14, HK1_2020-HK2_2020=27, HK1_2020-HK3_2021=39, HK1_2020-HK4_2021=53
+
+=== SV_1_0030 - Pham Thuy An ===
+GPA theo kỳ: HK1_2020=7.46, HK2_2020=7.51, HK3_2021=7.81, HK4_2021=8.26
+Delta GPA (so với TB=7.76): -0.30, -0.25, +0.05, +0.50
+Đoạn kỳ học tốt nhất (Kadane): [HK3_2021 -> HK4_2021], delta = +0.55
+Chuỗi GPA tăng dài nhất: 4 kỳ liên tiếp [HK1_2020 -> HK4_2021]
+GPA trung bình trượt (k=2): 7.48, 7.66, 8.03
+Cảnh báo sụt giảm: Không
+Tín chỉ tích lũy: HK1_2020=12, HK1_2020-HK2_2020=24, HK1_2020-HK3_2021=32, HK1_2020-HK4_2021=46
+

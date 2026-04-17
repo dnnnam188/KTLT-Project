@@ -6,6 +6,7 @@ tempCodeRunnerFile.*
 
 .bin/
 
+# Bỏ qua file .md GIAI_THICH_DU_AN.md
 GIAI_THICH_DU_AN.md
-
+# Bỏ qua file .md THUAT_TOAN_CHI_TIET.md
 THUAT_TOAN_CHI_TIET.md
